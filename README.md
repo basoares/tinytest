@@ -1,7 +1,7 @@
 TinyTest
 ========
 
-TinyTest is a small small unit test framework for C++. 
+TinyTest is a small unit test framework for C++. 
 
 Its main features are:
 
